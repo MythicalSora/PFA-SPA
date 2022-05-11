@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PFA-SPA/static/css/main.0d8ee2ab.css",
+    "main.js": "/PFA-SPA/static/js/main.f12ea281.js",
+    "static/media/atoms_family.webp": "/PFA-SPA/static/media/atoms_family.d794de68e82e8b7dbce5.webp",
+    "index.html": "/PFA-SPA/index.html",
+    "main.0d8ee2ab.css.map": "/PFA-SPA/static/css/main.0d8ee2ab.css.map",
+    "main.f12ea281.js.map": "/PFA-SPA/static/js/main.f12ea281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8ee2ab.css",
+    "static/js/main.f12ea281.js"
+  ]
+}
