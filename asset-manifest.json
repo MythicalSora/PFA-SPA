@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PFA-SPA/static/css/main.ec10881f.css",
-    "main.js": "/PFA-SPA/static/js/main.d527e4ef.js",
+    "main.js": "/PFA-SPA/static/js/main.bd466078.js",
     "static/media/jelle.png": "/PFA-SPA/static/media/jelle.3bb243e639d0fa0a675e.png",
     "static/media/test.webm": "/PFA-SPA/static/media/test.0ed8f42fed926d104acc.webm",
     "static/media/lux.png": "/PFA-SPA/static/media/lux.21f24743b0a588763b26.png",
@@ -18,10 +18,10 @@
     "static/media/alexis.webp": "/PFA-SPA/static/media/alexis.bec059a20d9f61e22014.webp",
     "index.html": "/PFA-SPA/index.html",
     "main.ec10881f.css.map": "/PFA-SPA/static/css/main.ec10881f.css.map",
-    "main.d527e4ef.js.map": "/PFA-SPA/static/js/main.d527e4ef.js.map"
+    "main.bd466078.js.map": "/PFA-SPA/static/js/main.bd466078.js.map"
   },
   "entrypoints": [
     "static/css/main.ec10881f.css",
-    "static/js/main.d527e4ef.js"
+    "static/js/main.bd466078.js"
   ]
 }
