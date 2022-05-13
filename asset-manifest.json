@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/PFA-SPA/static/css/main.0d8ee2ab.css",
-    "main.js": "/PFA-SPA/static/js/main.f12ea281.js",
+    "main.css": "/PFA-SPA/static/css/main.a272b317.css",
+    "main.js": "/PFA-SPA/static/js/main.d2f79f64.js",
+    "static/media/jelle.png": "/PFA-SPA/static/media/jelle.3bb243e639d0fa0a675e.png",
+    "static/media/lux.png": "/PFA-SPA/static/media/lux.21f24743b0a588763b26.png",
+    "static/media/dennis.webp": "/PFA-SPA/static/media/dennis.52adf980033e6386e81e.webp",
+    "static/media/dirk.webp": "/PFA-SPA/static/media/dirk.f4232f9a4b49e442cebb.webp",
+    "static/media/red.png": "/PFA-SPA/static/media/red.83c2194d9986a51c7d26.png",
+    "static/media/maike.jpg": "/PFA-SPA/static/media/maike.42654301b54a23c407eb.jpg",
     "static/media/atoms_family.webp": "/PFA-SPA/static/media/atoms_family.d794de68e82e8b7dbce5.webp",
+    "static/media/sora.webp": "/PFA-SPA/static/media/sora.6cc0bcda6bc454b83a2e.webp",
+    "static/media/alexis.webp": "/PFA-SPA/static/media/alexis.bec059a20d9f61e22014.webp",
     "index.html": "/PFA-SPA/index.html",
-    "main.0d8ee2ab.css.map": "/PFA-SPA/static/css/main.0d8ee2ab.css.map",
-    "main.f12ea281.js.map": "/PFA-SPA/static/js/main.f12ea281.js.map"
+    "main.a272b317.css.map": "/PFA-SPA/static/css/main.a272b317.css.map",
+    "main.d2f79f64.js.map": "/PFA-SPA/static/js/main.d2f79f64.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d8ee2ab.css",
-    "static/js/main.f12ea281.js"
+    "static/css/main.a272b317.css",
+    "static/js/main.d2f79f64.js"
   ]
 }
